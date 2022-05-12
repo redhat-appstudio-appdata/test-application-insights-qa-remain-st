@@ -1,4 +1,5 @@
 bases:
 - components/basic-go/base
+- components/basic-quarkus/base
 resources:
 - common-storage-pvc.yaml
